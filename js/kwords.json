@@ -1,0 +1,30 @@
+{
+    "kWords": [
+      {
+        "ph_korean": "Annyeong haseyo",
+        "english": "Hello",
+        "hangul": "안녕하세요"
+      },
+      {
+        "ph_korean": "Juseyo",
+        "english": "Please",
+        "hangul": "주세요"
+      },
+      {
+        "ph_korean": "Gamsahamnida",
+        "english": "Thank you",
+        "hangul": "감사합니다"
+      },
+      {
+        "ph_korean": "Mianhamnida",
+        "english": "Sorry",
+        "hangul": "미안합니다"
+      },
+      {
+        "ph_korean": "annyeoung-higye-seyo",
+        "english": "Goodbye",
+        "hangul": "안녕히 계세요"
+      }
+    ]
+  }
+  
